@@ -1,0 +1,696 @@
+2022-11-16 22:37:16,351 - logger_File -INFO - React App is equal to React App
+2022-11-16 22:38:20,276 - logger_File -INFO - React App is equal to React App
+2022-11-29 11:02:04,110 - logger_File -INFO - React App is equal to React App
+2022-11-29 11:51:38,270 - logger_File -INFO - React App is equal to React App
+2022-11-29 11:53:02,231 - logger_File -INFO - React App is equal to React App
+2022-11-29 11:58:16,401 - logger_File -INFO - React App is equal to React App
+2022-11-29 12:10:02,095 - logger_File -INFO - React App is equal to React App
+2022-11-29 12:10:02,243 - logger_File -INFO - User Clicked On sign In Option
+2022-11-29 12:10:02,531 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Sameer.l.p2100
+2022-11-29 12:10:02,616 - logger_File -INFO - User Cliked on login Button
+2022-11-29 23:34:18,092 - logger_File -INFO - User Clicked On Create New Account Button
+2022-11-29 23:34:18,505 - logger_File -INFO - User Enterd requierd Information into SignUp Form
+2022-11-29 23:34:18,578 - logger_File -INFO - User Clicked On SignIn Button
+2022-11-29 23:54:28,451 - logger_File -INFO - user cliked on sign In option
+2022-11-29 23:54:28,542 - logger_File -INFO - User Clicked On Create New Account Button
+2022-11-29 23:54:28,958 - logger_File -INFO - User Enterd requierd Information into SignUp Form
+2022-11-29 23:54:29,042 - logger_File -INFO - User Clicked On SignIn Button
+2022-11-29 23:54:29,423 - logger_File -INFO - New Account Successfully Created 
+2022-11-30 01:03:25,677 - logger_File -INFO - user cliked on sign In option
+2022-11-30 01:03:25,921 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Panthers@123
+2022-11-30 01:03:25,998 - logger_File -INFO - User Cliked on login Button
+2022-11-30 01:05:50,025 - logger_File -INFO - user cliked on sign In option
+2022-11-30 01:05:50,270 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Panthers@123
+2022-11-30 01:05:50,346 - logger_File -INFO - User Cliked on login Button
+2022-11-30 01:09:16,731 - logger_File -INFO - user cliked on sign In option
+2022-11-30 01:09:16,965 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Panthers@123
+2022-11-30 01:09:17,041 - logger_File -INFO - User Cliked on login Button
+2022-11-30 01:09:17,461 - logger_File -INFO - User Clicked On Account Button
+2022-11-30 01:09:17,805 - logger_File -INFO - User enterd The New Name: Samir TimoryAnd Phone Number: 202-123-1234
+2022-11-30 01:11:49,386 - logger_File -INFO - user cliked on sign In option
+2022-11-30 01:11:49,629 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Panthers@123
+2022-11-30 01:11:49,704 - logger_File -INFO - User Cliked on login Button
+2022-11-30 01:11:50,167 - logger_File -INFO - User Clicked On Account Button
+2022-11-30 01:11:50,492 - logger_File -INFO - User enterd The New Name : Samir TimoryAnd Phone Number : 202-123-1234
+2022-11-30 01:11:50,574 - logger_File -INFO - Account Information has been Updated
+2022-11-30 01:11:50,575 - logger_File -INFO - Personal Information Updated Successfully
+2022-11-30 11:19:00,179 - logger_File -INFO - user cliked on sign In option
+2022-11-30 11:19:00,547 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Panthers@123
+2022-11-30 11:19:00,619 - logger_File -INFO - User Cliked on login Button
+2022-11-30 11:21:53,441 - logger_File -INFO - user cliked on sign In option
+2022-11-30 11:21:53,692 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Panthers@123
+2022-11-30 11:21:53,768 - logger_File -INFO - User Cliked on login Button
+2022-11-30 11:22:18,105 - logger_File -INFO - user cliked on sign In option
+2022-11-30 11:22:18,357 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Panthers@123
+2022-11-30 11:22:18,432 - logger_File -INFO - User Cliked on login Button
+2022-11-30 11:23:56,853 - logger_File -INFO - user cliked on sign In option
+2022-11-30 11:23:57,082 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@12345
+2022-11-30 11:23:57,158 - logger_File -INFO - User Cliked on login Button
+2022-11-30 11:23:57,518 - logger_File -INFO - User Clicked On Account Button
+2022-11-30 11:23:57,821 - logger_File -INFO - User Enterd The Information For Password Change
+2022-11-30 11:23:57,893 - logger_File -INFO - User Clicked On Change Password Button
+2022-11-30 11:35:49,666 - logger_File -INFO - user cliked on sign In option
+2022-11-30 11:35:49,902 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@22335
+2022-11-30 11:35:49,975 - logger_File -INFO - User Cliked on login Button
+2022-11-30 11:35:50,349 - logger_File -INFO - User Clicked On Account Button
+2022-11-30 11:35:50,632 - logger_File -INFO - User Enterd The Information For Password Change
+2022-11-30 11:35:50,708 - logger_File -INFO - User Clicked On Change Password Button
+2022-11-30 11:41:28,695 - logger_File -INFO - user cliked on sign In option
+2022-11-30 11:41:28,930 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@223356
+2022-11-30 11:41:29,005 - logger_File -INFO - User Cliked on login Button
+2022-11-30 11:41:29,466 - logger_File -INFO - User Clicked On Account Button
+2022-11-30 11:41:29,735 - logger_File -INFO - User Enterd The Information For Password Change
+2022-11-30 11:41:29,806 - logger_File -INFO - User Clicked On Change Password Button
+2022-12-01 19:44:31,842 - logger_File -INFO - user cliked on sign In option
+2022-12-01 19:44:32,175 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@223356
+2022-12-01 19:44:32,280 - logger_File -INFO - User Cliked on login Button
+2022-12-01 19:45:19,616 - logger_File -INFO - user cliked on sign In option
+2022-12-01 19:45:19,869 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-01 19:45:19,949 - logger_File -INFO - User Cliked on login Button
+2022-12-01 19:45:20,541 - logger_File -INFO - User Clicked On Account Button
+2022-12-01 19:45:20,658 - logger_File -INFO - User Clicked On Add Payment Method
+2022-12-01 19:47:29,253 - logger_File -INFO - user cliked on sign In option
+2022-12-01 19:47:29,492 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-01 19:47:29,563 - logger_File -INFO - User Cliked on login Button
+2022-12-01 19:47:30,124 - logger_File -INFO - User Clicked On Account Button
+2022-12-01 19:47:30,513 - logger_File -INFO - User Clicked On Add Payment Method
+2022-12-01 19:47:30,991 - logger_File -INFO - User Enterd the Required Information For Card
+2022-12-01 19:47:31,070 - logger_File -INFO - User Clicked On 'Add Your Card Button' 
+2022-12-01 19:48:32,415 - logger_File -INFO - user cliked on sign In option
+2022-12-01 19:48:32,660 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-01 19:48:32,745 - logger_File -INFO - User Cliked on login Button
+2022-12-01 19:48:33,206 - logger_File -INFO - User Clicked On Account Button
+2022-12-01 19:48:33,362 - logger_File -INFO - User Clicked On Add Payment Method
+2022-12-01 19:48:33,757 - logger_File -INFO - User Enterd the Required Information For Card
+2022-12-01 19:48:33,842 - logger_File -INFO - User Clicked On 'Add Your Card Button' 
+2022-12-01 19:50:50,049 - logger_File -INFO - user cliked on sign In option
+2022-12-01 19:50:50,305 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-01 19:50:50,378 - logger_File -INFO - User Cliked on login Button
+2022-12-01 19:50:50,824 - logger_File -INFO - User Clicked On Account Button
+2022-12-01 19:50:50,909 - logger_File -INFO - User Clicked On Add Payment Method
+2022-12-01 19:50:51,332 - logger_File -INFO - User Enterd the Required Information For Card
+2022-12-01 19:50:51,893 - logger_File -INFO - User Clicked On 'Add Your Card Button' 
+2022-12-01 19:52:04,259 - logger_File -INFO - user cliked on sign In option
+2022-12-01 19:52:04,496 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-01 19:52:04,569 - logger_File -INFO - User Cliked on login Button
+2022-12-01 19:52:04,919 - logger_File -INFO - User Clicked On Account Button
+2022-12-01 19:52:05,011 - logger_File -INFO - User Clicked On Add Payment Method
+2022-12-01 19:52:05,453 - logger_File -INFO - User Enterd the Required Information For Card
+2022-12-01 19:52:05,547 - logger_File -INFO - User Clicked On 'Add Your Card Button' 
+2022-12-01 19:52:36,531 - logger_File -INFO - user cliked on sign In option
+2022-12-01 19:52:36,762 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-01 19:52:36,843 - logger_File -INFO - User Cliked on login Button
+2022-12-01 19:52:37,306 - logger_File -INFO - User Clicked On Account Button
+2022-12-01 19:52:37,488 - logger_File -INFO - User Clicked On Add Payment Method
+2022-12-01 19:52:37,922 - logger_File -INFO - User Enterd the Required Information For Card
+2022-12-01 19:52:38,008 - logger_File -INFO - User Clicked On 'Add Your Card Button' 
+2022-12-01 20:01:21,704 - logger_File -INFO - user cliked on sign In option
+2022-12-01 20:01:21,949 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-01 20:01:22,028 - logger_File -INFO - User Cliked on login Button
+2022-12-01 20:01:22,515 - logger_File -INFO - User Clicked On Account Button
+2022-12-01 20:01:22,615 - logger_File -INFO - User Clicked On Add Payment Method
+2022-12-01 20:01:23,052 - logger_File -INFO - User Enterd the Required Information For Card
+2022-12-01 20:01:23,136 - logger_File -INFO - User Clicked On 'Add Your Card Button' 
+2022-12-01 20:18:35,493 - logger_File -INFO - user cliked on sign In option
+2022-12-01 20:18:35,742 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-01 20:18:35,820 - logger_File -INFO - User Cliked on login Button
+2022-12-01 20:18:36,526 - logger_File -INFO - User Clicked On Account Button
+2022-12-01 20:18:36,615 - logger_File -INFO - User Clicked On Add Payment Method
+2022-12-01 20:18:37,326 - logger_File -INFO - User Enterd the Required Information For Card
+2022-12-01 20:18:37,396 - logger_File -INFO - User Clicked On 'Add Your Card Button' 
+2022-12-01 20:21:23,070 - logger_File -INFO - user cliked on sign In option
+2022-12-01 20:21:23,321 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-01 20:21:23,394 - logger_File -INFO - User Cliked on login Button
+2022-12-01 20:21:23,824 - logger_File -INFO - User Clicked On Account Button
+2022-12-01 20:21:23,926 - logger_File -INFO - User Clicked On Add Payment Method
+2022-12-01 20:21:24,332 - logger_File -INFO - User Enterd the Required Information For Card
+2022-12-01 20:21:24,408 - logger_File -INFO - User Clicked On 'Add Your Card Button' 
+2022-12-02 11:45:08,190 - logger_File -INFO - user cliked on sign In option
+2022-12-02 11:45:08,429 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 11:45:08,505 - logger_File -INFO - User Cliked on login Button
+2022-12-02 11:45:09,044 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 11:46:35,156 - logger_File -INFO - user cliked on sign In option
+2022-12-02 11:46:35,389 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 11:46:35,468 - logger_File -INFO - User Cliked on login Button
+2022-12-02 11:46:35,816 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 11:51:22,343 - logger_File -INFO - user cliked on sign In option
+2022-12-02 11:51:22,578 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 11:51:22,659 - logger_File -INFO - User Cliked on login Button
+2022-12-02 11:51:23,451 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 11:51:23,754 - logger_File -INFO - 7856is selected
+2022-12-02 11:51:23,880 - logger_File -INFO - User Clicked On Edit Button
+2022-12-02 11:51:24,465 - logger_File -INFO - User Enter New Card Information
+2022-12-02 11:51:24,541 - logger_File -INFO - User Clicked On Update Card Button
+2022-12-02 11:51:25,228 - logger_File -INFO - Payment Method updated Successfullyis displayed
+2022-12-02 11:54:38,728 - logger_File -INFO - user cliked on sign In option
+2022-12-02 11:54:38,959 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 11:54:39,035 - logger_File -INFO - User Cliked on login Button
+2022-12-02 11:54:39,426 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 11:54:39,628 - logger_File -INFO - 7843is selected
+2022-12-02 11:54:39,705 - logger_File -INFO - User Clicked On Edit Button
+2022-12-02 11:54:40,245 - logger_File -INFO - User Enter New Card Information
+2022-12-02 11:54:40,322 - logger_File -INFO - User Clicked On Update Card Button
+2022-12-02 11:54:41,270 - logger_File -INFO - Payment Method updated Successfullyis displayed
+2022-12-02 12:24:38,548 - logger_File -INFO - user cliked on sign In option
+2022-12-02 12:24:38,795 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 12:24:38,871 - logger_File -INFO - User Cliked on login Button
+2022-12-02 12:24:39,218 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 12:30:54,905 - logger_File -INFO - user cliked on sign In option
+2022-12-02 12:30:55,124 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 12:30:55,199 - logger_File -INFO - User Cliked on login Button
+2022-12-02 12:30:55,539 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 12:34:26,660 - logger_File -INFO - user cliked on sign In option
+2022-12-02 12:34:26,907 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 12:34:26,988 - logger_File -INFO - User Cliked on login Button
+2022-12-02 12:34:27,381 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 12:35:44,013 - logger_File -INFO - user cliked on sign In option
+2022-12-02 12:35:44,264 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 12:35:44,346 - logger_File -INFO - User Cliked on login Button
+2022-12-02 12:35:44,757 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 12:40:56,085 - logger_File -INFO - user cliked on sign In option
+2022-12-02 12:40:56,325 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 12:40:56,402 - logger_File -INFO - User Cliked on login Button
+2022-12-02 12:40:56,779 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 12:49:19,248 - logger_File -INFO - user cliked on sign In option
+2022-12-02 12:49:19,480 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 12:49:19,554 - logger_File -INFO - User Cliked on login Button
+2022-12-02 12:49:19,950 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 13:37:13,579 - logger_File -INFO - user cliked on sign In option
+2022-12-02 13:37:13,806 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 13:37:13,880 - logger_File -INFO - User Cliked on login Button
+2022-12-02 13:37:14,215 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 13:43:33,693 - logger_File -INFO - user cliked on sign In option
+2022-12-02 13:43:33,932 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 13:43:34,010 - logger_File -INFO - User Cliked on login Button
+2022-12-02 13:43:34,435 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 13:46:23,550 - logger_File -INFO - user cliked on sign In option
+2022-12-02 13:46:23,803 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 13:46:23,877 - logger_File -INFO - User Cliked on login Button
+2022-12-02 13:46:24,397 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 13:46:24,571 - logger_File -INFO - 7842is selected
+2022-12-02 13:46:24,654 - logger_File -INFO - User Clicked On Remove Option
+2022-12-02 13:46:24,676 - logger_File -INFO - Card has been Removed Successfully
+2022-12-02 13:47:52,239 - logger_File -INFO - user cliked on sign In option
+2022-12-02 13:47:52,480 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 13:47:52,560 - logger_File -INFO - User Cliked on login Button
+2022-12-02 13:47:52,994 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 13:48:38,769 - logger_File -INFO - user cliked on sign In option
+2022-12-02 13:48:39,002 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 13:48:39,080 - logger_File -INFO - User Cliked on login Button
+2022-12-02 13:48:39,495 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 13:51:06,779 - logger_File -INFO - user cliked on sign In option
+2022-12-02 13:51:07,013 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 13:51:07,083 - logger_File -INFO - User Cliked on login Button
+2022-12-02 13:51:07,483 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 13:53:22,437 - logger_File -INFO - user cliked on sign In option
+2022-12-02 13:53:22,672 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 13:53:22,744 - logger_File -INFO - User Cliked on login Button
+2022-12-02 13:53:23,122 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 13:53:23,362 - logger_File -INFO - 7812is selected
+2022-12-02 13:53:23,442 - logger_File -INFO - User Clicked On Remove Option
+2022-12-02 13:58:52,646 - logger_File -INFO - user cliked on sign In option
+2022-12-02 13:58:52,873 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 13:58:52,953 - logger_File -INFO - User Cliked on login Button
+2022-12-02 13:58:53,307 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 13:58:53,467 - logger_File -INFO - 7812is selected
+2022-12-02 13:58:53,551 - logger_File -INFO - User Clicked On Remove Option
+2022-12-02 13:58:53,552 - logger_File -INFO - Card has been Removed Successfully
+2022-12-02 14:00:00,046 - logger_File -INFO - user cliked on sign In option
+2022-12-02 14:00:00,281 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 14:00:00,352 - logger_File -INFO - User Cliked on login Button
+2022-12-02 14:00:00,703 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 14:00:00,802 - logger_File -INFO - 7812is selected
+2022-12-02 14:00:00,899 - logger_File -INFO - User Clicked On Remove Option
+2022-12-02 14:00:00,899 - logger_File -INFO - Card has been Removed Successfully
+2022-12-02 14:00:43,702 - logger_File -INFO - user cliked on sign In option
+2022-12-02 14:00:43,929 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 14:00:44,000 - logger_File -INFO - User Cliked on login Button
+2022-12-02 14:00:44,409 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 14:01:49,813 - logger_File -INFO - user cliked on sign In option
+2022-12-02 14:01:50,050 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 14:01:50,122 - logger_File -INFO - User Cliked on login Button
+2022-12-02 14:01:50,549 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 14:01:50,631 - logger_File -INFO - User Clicked On Add Payment Method
+2022-12-02 14:01:51,036 - logger_File -INFO - User Enterd the Required Information For Card
+2022-12-02 14:01:51,115 - logger_File -INFO - User Clicked On 'Add Your Card Button' 
+2022-12-02 14:02:27,470 - logger_File -INFO - user cliked on sign In option
+2022-12-02 14:02:27,717 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 14:02:27,834 - logger_File -INFO - User Cliked on login Button
+2022-12-02 14:02:28,537 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 14:02:28,625 - logger_File -INFO - User Clicked On Add Payment Method
+2022-12-02 14:02:29,028 - logger_File -INFO - User Enterd the Required Information For Card
+2022-12-02 14:02:29,106 - logger_File -INFO - User Clicked On 'Add Your Card Button' 
+2022-12-02 14:02:29,768 - logger_File -INFO - Payment Method added successfullyis displayed
+2022-12-02 14:02:59,297 - logger_File -INFO - user cliked on sign In option
+2022-12-02 14:02:59,524 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 14:02:59,596 - logger_File -INFO - User Cliked on login Button
+2022-12-02 14:02:59,999 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 14:03:25,465 - logger_File -INFO - user cliked on sign In option
+2022-12-02 14:03:25,707 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 14:03:25,784 - logger_File -INFO - User Cliked on login Button
+2022-12-02 14:03:26,135 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 14:03:51,180 - logger_File -INFO - user cliked on sign In option
+2022-12-02 14:03:51,427 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 14:03:51,501 - logger_File -INFO - User Cliked on login Button
+2022-12-02 14:03:51,918 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 14:03:52,017 - logger_File -INFO - 7843is selected
+2022-12-02 14:03:52,102 - logger_File -INFO - User Clicked On Edit Button
+2022-12-02 14:03:52,676 - logger_File -INFO - User Enter New Card Information
+2022-12-02 14:03:52,754 - logger_File -INFO - User Clicked On Update Card Button
+2022-12-02 14:03:53,556 - logger_File -INFO - Payment Method updated Successfullyis displayed
+2022-12-02 14:05:15,317 - logger_File -INFO - user cliked on sign In option
+2022-12-02 14:05:15,558 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 14:05:15,631 - logger_File -INFO - User Cliked on login Button
+2022-12-02 14:05:16,123 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 14:14:19,932 - logger_File -INFO - user cliked on sign In option
+2022-12-02 14:14:20,171 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-02 14:14:20,248 - logger_File -INFO - User Cliked on login Button
+2022-12-02 14:14:20,629 - logger_File -INFO - User Clicked On Account Button
+2022-12-02 14:14:21,026 - logger_File -INFO - User Clicked On Remove Option
+2022-12-02 14:14:21,027 - logger_File -INFO - Card has been Removed Successfully
+2022-12-03 14:06:37,782 - logger_File -INFO - user cliked on sign In option
+2022-12-03 14:06:38,104 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-03 14:06:38,175 - logger_File -INFO - User Cliked on login Button
+2022-12-03 14:06:39,307 - logger_File -INFO - User Clicked On Account Button
+2022-12-03 14:06:39,665 - logger_File -INFO - User Clicked On Remove Option
+2022-12-03 14:06:39,667 - logger_File -INFO - Card has been Removed Successfully
+2022-12-03 14:33:06,109 - logger_File -INFO - user cliked on sign In option
+2022-12-03 14:33:06,347 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-03 14:33:06,417 - logger_File -INFO - User Cliked on login Button
+2022-12-03 14:33:06,848 - logger_File -INFO - User Clicked On Account Button
+2022-12-03 14:33:59,360 - logger_File -INFO - user cliked on sign In option
+2022-12-03 14:33:59,602 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-03 14:33:59,681 - logger_File -INFO - User Cliked on login Button
+2022-12-03 14:34:00,651 - logger_File -INFO - User Clicked On Account Button
+2022-12-03 14:34:00,731 - logger_File -INFO - User Clicked On Add Payment Method
+2022-12-03 14:34:01,160 - logger_File -INFO - User Enterd the Required Information For Card
+2022-12-03 14:34:01,241 - logger_File -INFO - User Clicked On 'Add Your Card Button' 
+2022-12-03 14:34:04,215 - logger_File -INFO - Payment Method added successfullyis displayed
+2022-12-03 14:34:20,260 - logger_File -INFO - user cliked on sign In option
+2022-12-03 14:34:20,493 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-03 14:34:20,563 - logger_File -INFO - User Cliked on login Button
+2022-12-03 14:34:20,941 - logger_File -INFO - User Clicked On Account Button
+2022-12-03 14:40:16,597 - logger_File -INFO - user cliked on sign In option
+2022-12-03 14:40:16,843 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-03 14:40:16,918 - logger_File -INFO - User Cliked on login Button
+2022-12-03 14:40:17,735 - logger_File -INFO - User Clicked On Account Button
+2022-12-03 14:41:09,792 - logger_File -INFO - user cliked on sign In option
+2022-12-03 14:41:10,040 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-03 14:41:10,120 - logger_File -INFO - User Cliked on login Button
+2022-12-03 14:41:10,846 - logger_File -INFO - User Clicked On Account Button
+2022-12-03 14:41:11,023 - logger_File -INFO - 7843is selected
+2022-12-03 14:41:11,101 - logger_File -INFO - User Clicked On Edit Button
+2022-12-03 14:41:11,683 - logger_File -INFO - User Enter New Card Information
+2022-12-03 14:41:11,764 - logger_File -INFO - User Clicked On Update Card Button
+2022-12-03 14:41:12,529 - logger_File -INFO - Payment Method updated Successfullyis displayed
+2022-12-03 14:41:43,671 - logger_File -INFO - user cliked on sign In option
+2022-12-03 14:41:43,913 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-03 14:41:43,985 - logger_File -INFO - User Cliked on login Button
+2022-12-03 14:41:44,372 - logger_File -INFO - User Clicked On Account Button
+2022-12-03 14:41:44,911 - logger_File -INFO - User Clicked On Remove Option
+2022-12-03 14:41:44,912 - logger_File -INFO - Card has been Removed Successfully
+2022-12-03 14:44:47,417 - logger_File -INFO - user cliked on sign In option
+2022-12-03 14:44:47,651 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-03 14:44:47,726 - logger_File -INFO - User Cliked on login Button
+2022-12-03 14:44:48,059 - logger_File -INFO - User Clicked On Account Button
+2022-12-03 14:44:48,309 - logger_File -INFO - User Clicked On Remove Option
+2022-12-03 14:44:48,310 - logger_File -INFO - Card has been Removed Successfully
+2022-12-05 13:22:56,019 - logger_File -INFO - user cliked on sign In option
+2022-12-05 13:22:56,452 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-05 13:22:56,535 - logger_File -INFO - User Cliked on login Button
+2022-12-05 13:22:57,354 - logger_File -INFO - User Clicked On Account Button
+2022-12-05 13:52:37,371 - logger_File -INFO - user cliked on sign In option
+2022-12-05 13:52:37,609 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-05 13:52:37,682 - logger_File -INFO - User Cliked on login Button
+2022-12-05 13:52:38,989 - logger_File -INFO - User Clicked On Account Button
+2022-12-05 13:52:39,111 - logger_File -INFO - User Clicked on Add Adress Button
+2022-12-05 13:54:46,358 - logger_File -INFO - user cliked on sign In option
+2022-12-05 13:54:46,606 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-05 13:54:46,684 - logger_File -INFO - User Cliked on login Button
+2022-12-05 13:54:47,641 - logger_File -INFO - User Clicked On Account Button
+2022-12-05 13:54:47,742 - logger_File -INFO - User Clicked on Add Adress Button
+2022-12-05 13:57:12,423 - logger_File -INFO - user cliked on sign In option
+2022-12-05 13:57:12,665 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-05 13:57:12,739 - logger_File -INFO - User Cliked on login Button
+2022-12-05 13:57:13,277 - logger_File -INFO - User Clicked On Account Button
+2022-12-05 13:57:13,378 - logger_File -INFO - User Clicked on Add Adress Button
+2022-12-05 13:57:14,338 - logger_File -INFO - User Enterd Adress Information
+2022-12-05 13:57:14,638 - logger_File -INFO - User Clicked On Add Your Adress Button
+2022-12-05 13:57:16,063 - logger_File -INFO - Address Added Successfullyis Displayed
+2022-12-05 14:38:20,876 - logger_File -INFO - user cliked on sign In option
+2022-12-05 14:38:21,109 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-05 14:38:21,180 - logger_File -INFO - User Cliked on login Button
+2022-12-05 14:38:21,834 - logger_File -INFO - User Clicked On Account Button
+2022-12-05 14:54:35,624 - logger_File -INFO - user cliked on sign In option
+2022-12-05 14:54:35,867 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-05 14:54:35,943 - logger_File -INFO - User Cliked on login Button
+2022-12-05 14:54:37,575 - logger_File -INFO - User Clicked On Account Button
+2022-12-05 14:54:38,191 - logger_File -INFO - User Clicked On Edit Address Button
+2022-12-05 14:56:15,554 - logger_File -INFO - user cliked on sign In option
+2022-12-05 14:56:15,789 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-05 14:56:15,863 - logger_File -INFO - User Cliked on login Button
+2022-12-05 14:56:16,238 - logger_File -INFO - User Clicked On Account Button
+2022-12-05 14:56:16,867 - logger_File -INFO - User Clicked On Edit Address Button
+2022-12-05 14:58:43,766 - logger_File -INFO - user cliked on sign In option
+2022-12-05 14:58:44,016 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-05 14:58:44,097 - logger_File -INFO - User Cliked on login Button
+2022-12-05 14:58:44,494 - logger_File -INFO - User Clicked On Account Button
+2022-12-05 14:58:45,401 - logger_File -INFO - User Clicked On Edit Address Button
+2022-12-05 14:59:26,645 - logger_File -INFO - user cliked on sign In option
+2022-12-05 14:59:26,884 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-05 14:59:26,965 - logger_File -INFO - User Cliked on login Button
+2022-12-05 14:59:28,102 - logger_File -INFO - User Clicked On Account Button
+2022-12-05 14:59:29,352 - logger_File -INFO - User Clicked On Edit Address Button
+2022-12-05 14:59:30,514 - logger_File -INFO - User Enterd Adress Information
+2022-12-05 14:59:30,589 - logger_File -INFO - User Clicked On Update your Address Button
+2022-12-05 15:00:32,765 - logger_File -INFO - user cliked on sign In option
+2022-12-05 15:00:33,004 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-05 15:00:33,078 - logger_File -INFO - User Cliked on login Button
+2022-12-05 15:00:34,407 - logger_File -INFO - User Clicked On Account Button
+2022-12-05 15:00:36,479 - logger_File -INFO - User Clicked On Edit Address Button
+2022-12-05 15:00:37,637 - logger_File -INFO - User Enterd Adress Information
+2022-12-05 15:00:37,728 - logger_File -INFO - User Clicked On Update your Address Button
+2022-12-05 15:00:40,614 - logger_File -INFO - Address Updated Successfullyis Displayed 
+2022-12-05 15:08:01,221 - logger_File -INFO - user cliked on sign In option
+2022-12-05 15:08:01,498 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-05 15:08:01,571 - logger_File -INFO - User Cliked on login Button
+2022-12-05 15:08:04,493 - logger_File -INFO - User Clicked On Account Button
+2022-12-05 15:08:04,697 - logger_File -INFO - User Clicked On Remove Address Button
+2022-12-05 15:08:04,699 - logger_File -INFO - Address has been Removed Successfully
+2022-12-05 15:09:39,465 - logger_File -INFO - user cliked on sign In option
+2022-12-05 15:09:39,707 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-05 15:09:39,782 - logger_File -INFO - User Cliked on login Button
+2022-12-05 15:09:45,888 - logger_File -INFO - User Clicked On Account Button
+2022-12-05 15:09:49,629 - logger_File -INFO - User Clicked On Remove Address Button
+2022-12-05 15:09:49,630 - logger_File -INFO - Address has been Removed Successfully
+2022-12-05 15:19:04,521 - logger_File -INFO - user cliked on sign In option
+2022-12-05 15:19:04,766 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-05 15:19:04,847 - logger_File -INFO - User Cliked on login Button
+2022-12-05 15:19:05,922 - logger_File -INFO - User Clicked On Account Button
+2022-12-05 15:19:09,306 - logger_File -INFO - User Clicked On Remove Address Button
+2022-12-05 15:19:09,307 - logger_File -INFO - Address has been Removed Successfully
+2022-12-05 15:20:04,671 - logger_File -INFO - user cliked on sign In option
+2022-12-05 15:20:04,913 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-05 15:20:04,995 - logger_File -INFO - User Cliked on login Button
+2022-12-05 15:20:07,894 - logger_File -INFO - User Clicked On Account Button
+2022-12-05 15:20:17,133 - logger_File -INFO - User Clicked On Remove Address Button
+2022-12-05 15:20:17,136 - logger_File -INFO - Address has been Removed Successfully
+2022-12-05 16:16:53,986 - logger_File -INFO - React App is equal to React App
+2022-12-05 16:16:54,192 - logger_File -INFO - User Clicked On All Section
+2022-12-05 16:16:54,415 - logger_File -INFO - Shop By departement Options are Displayed
+2022-12-05 16:35:39,252 - logger_File -INFO - React App is equal to React App
+2022-12-05 16:35:39,358 - logger_File -INFO - User Clicked On All Section
+2022-12-05 16:35:46,059 - logger_File -INFO - user cliked on sign In option
+2022-12-05 16:35:46,144 - logger_File -INFO - User Clicked On Create New Account Button
+2022-12-05 16:35:46,682 - logger_File -INFO - User Enterd requierd Information into SignUp Form
+2022-12-05 16:35:46,790 - logger_File -INFO - User Clicked On SignIn Button
+2022-12-05 16:37:12,718 - logger_File -INFO - React App is equal to React App
+2022-12-05 16:37:12,819 - logger_File -INFO - User Clicked On All Section
+2022-12-05 16:38:23,374 - logger_File -INFO - React App is equal to React App
+2022-12-05 16:38:23,481 - logger_File -INFO - User Clicked On All Section
+2022-12-05 16:39:42,079 - logger_File -INFO - React App is equal to React App
+2022-12-05 16:39:42,182 - logger_File -INFO - User Clicked On All Section
+2022-12-05 16:39:42,393 - logger_File -INFO - following Options are Displayed 
+2022-12-06 10:43:30,361 - logger_File -INFO - React App is equal to React App
+2022-12-06 10:43:30,756 - logger_File -INFO - user cliked on sign In option
+2022-12-06 10:43:31,169 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Sameer.l.p2100
+2022-12-06 10:43:31,650 - logger_File -INFO - User Cliked on login Button
+2022-12-06 10:44:55,434 - logger_File -INFO - React App is equal to React App
+2022-12-06 10:44:55,555 - logger_File -INFO - user cliked on sign In option
+2022-12-06 10:44:55,783 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-06 10:44:55,862 - logger_File -INFO - User Cliked on login Button
+2022-12-06 11:19:11,358 - logger_File -INFO - React App is equal to React App
+2022-12-06 11:19:11,488 - logger_File -INFO - user cliked on sign In option
+2022-12-06 11:19:11,728 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-06 11:19:11,802 - logger_File -INFO - User Cliked on login Button
+2022-12-06 11:19:12,309 - logger_File -INFO - User Change The Category To Samrt Home
+2022-12-06 11:19:12,423 - logger_File -INFO - kasa outdoor smart plugEneterd
+2022-12-06 11:19:12,496 - logger_File -INFO - User Clicked On Search Button
+2022-12-06 11:19:12,635 - logger_File -INFO - User Clicked On Item
+2022-12-06 11:19:12,989 - logger_File -INFO - 2is Selected
+2022-12-06 11:19:13,073 - logger_File -INFO - User Clicked on Add To Cart Button
+2022-12-06 11:19:13,096 - logger_File -INFO - The Cart Icon Has been Changed To 2
+2022-12-06 11:52:58,188 - logger_File -INFO - React App is equal to React App
+2022-12-06 11:52:58,312 - logger_File -INFO - user cliked on sign In option
+2022-12-06 11:52:58,546 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-06 11:52:58,621 - logger_File -INFO - User Cliked on login Button
+2022-12-06 11:52:59,820 - logger_File -INFO - User Change The Category To Samrt Home
+2022-12-06 11:52:59,958 - logger_File -INFO - kasa outdoor smart plugEneterd
+2022-12-06 11:53:00,031 - logger_File -INFO - User Clicked On Search Button
+2022-12-06 11:53:00,296 - logger_File -INFO - User Clicked On Item
+2022-12-06 11:53:00,658 - logger_File -INFO - 2is Selected
+2022-12-06 11:53:00,752 - logger_File -INFO - User Clicked on Add To Cart Button
+2022-12-06 11:53:01,020 - logger_File -INFO - The Cart Icon Has been Changed To 2
+2022-12-06 11:59:15,594 - logger_File -INFO - React App is equal to React App
+2022-12-06 11:59:15,717 - logger_File -INFO - user cliked on sign In option
+2022-12-06 11:59:15,952 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-06 11:59:16,028 - logger_File -INFO - User Cliked on login Button
+2022-12-06 11:59:16,440 - logger_File -INFO - User Change The Category To Samrt Home
+2022-12-06 11:59:16,591 - logger_File -INFO - kasa outdoor smart plugEneterd
+2022-12-06 11:59:16,670 - logger_File -INFO - User Clicked On Search Button
+2022-12-06 11:59:17,405 - logger_File -INFO - User Clicked On Item
+2022-12-06 11:59:17,891 - logger_File -INFO - 2is Selected
+2022-12-06 11:59:17,977 - logger_File -INFO - User Clicked on Add To Cart Button
+2022-12-06 11:59:18,003 - logger_File -INFO - The Cart Icon Has been Changed To 2
+2022-12-06 11:59:19,666 - logger_File -INFO - User Enterd Adress Information
+2022-12-06 11:59:19,857 - logger_File -INFO - User Clicked On Add Your Adress Button
+2022-12-06 11:59:20,347 - logger_File -INFO - User Enterd the Required Information For Card
+2022-12-06 11:59:20,433 - logger_File -INFO - User Clicked On 'Add Your Card Button' 
+2022-12-06 11:59:21,447 - logger_File -INFO - Order Placed Successfully is Displayed
+2022-12-06 14:08:55,929 - logger_File -INFO - React App is equal to React App
+2022-12-06 14:08:56,049 - logger_File -INFO - user cliked on sign In option
+2022-12-06 14:08:56,269 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-06 14:08:56,341 - logger_File -INFO - User Cliked on login Button
+2022-12-06 14:08:56,729 - logger_File -INFO - User Change The Category To Electronics
+2022-12-06 14:08:56,825 - logger_File -INFO - Apex LegendsEntered
+2022-12-06 14:08:56,910 - logger_File -INFO - User Clicked On Search Button
+2022-12-06 14:08:57,178 - logger_File -INFO - Apex Legendshas been Clicked
+2022-12-06 14:08:57,893 - logger_File -INFO - 5Selected
+2022-12-06 14:08:58,240 - logger_File -INFO - User Clicked on Add To Cart Button
+2022-12-06 14:08:58,325 - logger_File -INFO - The Cart Icon Has been Changed To 5
+2022-12-06 14:08:59,444 - logger_File -INFO - Order Placed Successfully is Displayed
+2022-12-06 15:25:16,257 - logger_File -INFO - React App is equal to React App
+2022-12-06 15:25:16,414 - logger_File -INFO - user cliked on sign In option
+2022-12-06 15:25:16,658 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-06 15:25:16,730 - logger_File -INFO - User Cliked on login Button
+2022-12-06 15:35:35,006 - logger_File -INFO - React App is equal to React App
+2022-12-06 15:35:35,137 - logger_File -INFO - user cliked on sign In option
+2022-12-06 15:35:35,374 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-06 15:35:35,451 - logger_File -INFO - User Cliked on login Button
+2022-12-06 15:35:39,809 - logger_File -INFO - User clicked on Orders Button
+2022-12-06 15:35:39,970 - logger_File -INFO - User Clicked On First order
+2022-12-06 15:36:36,551 - logger_File -INFO - React App is equal to React App
+2022-12-06 15:36:36,683 - logger_File -INFO - user cliked on sign In option
+2022-12-06 15:36:36,920 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-06 15:36:37,008 - logger_File -INFO - User Cliked on login Button
+2022-12-06 15:36:37,345 - logger_File -INFO - User clicked on Orders Button
+2022-12-06 15:36:37,346 - logger_File -INFO - User Clicked On First order
+2022-12-06 15:36:38,148 - logger_File -INFO - User Clicked on Cancel The Order Button
+2022-12-06 15:36:38,313 - logger_File -INFO - Bought wrong item Selected
+2022-12-06 15:36:39,735 - logger_File -INFO - Your Order Has Been Cancelled is Displayed
+2022-12-06 15:37:04,688 - logger_File -INFO - React App is equal to React App
+2022-12-06 15:37:04,810 - logger_File -INFO - user cliked on sign In option
+2022-12-06 15:37:05,042 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-06 15:37:05,118 - logger_File -INFO - User Cliked on login Button
+2022-12-06 15:37:06,254 - logger_File -INFO - User clicked on Orders Button
+2022-12-06 15:37:06,255 - logger_File -INFO - User Clicked On First order
+2022-12-06 15:39:12,670 - logger_File -INFO - React App is equal to React App
+2022-12-06 15:39:12,800 - logger_File -INFO - user cliked on sign In option
+2022-12-06 15:39:13,038 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-06 15:39:13,141 - logger_File -INFO - User Cliked on login Button
+2022-12-06 15:39:13,543 - logger_File -INFO - User clicked on Orders Button
+2022-12-06 15:39:13,545 - logger_File -INFO - User Clicked On First order
+2022-12-06 15:39:14,017 - logger_File -INFO - User Clicked on Cancel The Order Button
+2022-12-06 15:39:14,189 - logger_File -INFO - Bought wrong item Selected
+2022-12-06 15:39:14,420 - logger_File -INFO - Your Order Has Been Cancelled is Displayed
+2022-12-06 16:00:50,540 - logger_File -INFO - React App is equal to React App
+2022-12-06 16:00:50,666 - logger_File -INFO - user cliked on sign In option
+2022-12-06 16:00:50,917 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-06 16:00:50,998 - logger_File -INFO - User Cliked on login Button
+2022-12-06 16:00:51,411 - logger_File -INFO - User clicked on Orders Button
+2022-12-06 16:00:51,413 - logger_File -INFO - User Clicked On First order
+2022-12-06 16:39:15,713 - logger_File -INFO - React App is equal to React App
+2022-12-06 16:39:15,855 - logger_File -INFO - user cliked on sign In option
+2022-12-06 16:39:16,095 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-06 16:39:16,168 - logger_File -INFO - User Cliked on login Button
+2022-12-06 16:39:16,558 - logger_File -INFO - User clicked on Orders Button
+2022-12-06 16:39:16,560 - logger_File -INFO - User Clicked On First order
+2022-12-06 16:39:16,932 - logger_File -INFO - User Clicked On Return Items Button
+2022-12-06 16:39:17,094 - logger_File -INFO - Item damaged Selected
+2022-12-06 16:39:17,255 - logger_File -INFO - FedExis Displayed
+2022-12-06 16:39:17,990 - logger_File -INFO - Return was successfullis Printed
+2022-12-06 17:01:29,303 - logger_File -INFO - React App is equal to React App
+2022-12-06 17:01:29,447 - logger_File -INFO - user cliked on sign In option
+2022-12-06 17:01:29,696 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-06 17:01:29,771 - logger_File -INFO - User Cliked on login Button
+2022-12-06 17:01:30,164 - logger_File -INFO - User clicked on Orders Button
+2022-12-06 17:01:30,166 - logger_File -INFO - User Clicked On First order
+2022-12-06 18:17:15,547 - logger_File -INFO - React App is equal to React App
+2022-12-06 18:17:15,695 - logger_File -INFO - user cliked on sign In option
+2022-12-06 18:17:15,928 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-06 18:17:16,004 - logger_File -INFO - User Cliked on login Button
+2022-12-06 18:17:16,804 - logger_File -INFO - User clicked on Orders Button
+2022-12-06 18:17:16,805 - logger_File -INFO - User Clicked On First order
+2022-12-06 18:17:16,970 - logger_File -INFO - User Click On Reviwe Button
+2022-12-06 18:17:17,151 - logger_File -INFO - User send the Reviwe and discription
+2022-12-06 18:17:17,498 - logger_File -INFO - User Clicked on Add Your Reviwe Button
+2022-12-06 18:18:47,789 - logger_File -INFO - React App is equal to React App
+2022-12-06 18:18:47,916 - logger_File -INFO - user cliked on sign In option
+2022-12-06 18:18:48,155 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-06 18:18:48,230 - logger_File -INFO - User Cliked on login Button
+2022-12-06 18:18:48,709 - logger_File -INFO - User clicked on Orders Button
+2022-12-06 18:18:48,710 - logger_File -INFO - User Clicked On First order
+2022-12-06 18:18:48,802 - logger_File -INFO - User Click On Reviwe Button
+2022-12-06 18:18:48,985 - logger_File -INFO - User send the Reviwe and discription
+2022-12-06 18:18:49,056 - logger_File -INFO - User Clicked on Add Your Reviwe Button
+2022-12-06 18:18:49,696 - logger_File -INFO - Your review was added successfullyis Displayed
+2022-12-07 13:24:54,371 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:24:55,183 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:24:55,510 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:24:55,608 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:24:55,960 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:25:01,471 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:25:01,607 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:25:01,847 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:25:01,914 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:25:02,584 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:25:09,729 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:25:09,840 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:25:10,071 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:25:10,141 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:25:11,547 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:25:19,383 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:25:19,497 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:25:19,720 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:25:19,788 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:25:22,645 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:25:31,951 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:25:32,061 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:25:32,277 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:25:32,347 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:25:34,142 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:31:16,393 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:31:16,530 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:31:16,748 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:31:16,824 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:31:17,206 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:31:22,358 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:31:22,482 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:31:22,715 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:31:22,789 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:31:23,147 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:31:27,517 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:31:27,639 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:31:27,871 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:31:27,948 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:31:28,266 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:31:35,506 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:31:35,619 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:31:35,857 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:31:35,931 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:31:37,546 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:31:42,880 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:31:42,993 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:31:43,230 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:31:43,301 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:31:44,403 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:45:53,765 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:45:53,899 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:45:54,133 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:45:54,207 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:45:54,689 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:45:59,000 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:45:59,124 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:45:59,368 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:45:59,437 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:46:00,048 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:46:03,594 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:46:03,706 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:46:04,153 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:46:04,232 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:46:04,526 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:46:08,690 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:46:08,803 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:46:09,040 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:46:09,118 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:46:09,689 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:46:18,042 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:46:18,150 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:46:18,395 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:46:18,467 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:46:19,079 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:48:20,634 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:48:20,768 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:48:21,011 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:48:21,086 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:48:22,390 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:48:29,276 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:48:29,415 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:48:29,662 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:48:29,736 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:48:30,405 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:48:34,569 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:48:34,703 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:48:34,935 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:48:35,002 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:48:35,339 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:48:40,536 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:48:40,644 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:48:40,874 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:48:40,938 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:48:42,100 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:48:53,244 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:48:53,358 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:48:53,594 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:48:53,665 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:48:54,203 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:50:55,546 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:50:55,682 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:50:55,921 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:50:55,990 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:50:56,366 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:51:00,673 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:51:00,800 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:51:01,075 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:51:01,144 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:51:01,447 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:51:05,235 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:51:05,359 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:51:05,580 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:51:05,644 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:51:05,973 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:51:12,570 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:51:12,683 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:51:12,922 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:51:13,033 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:51:14,091 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:51:21,986 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:51:22,093 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:51:22,320 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:51:22,389 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:51:25,743 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:52:22,512 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:52:22,638 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:52:22,880 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:52:22,959 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:52:23,523 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:52:38,509 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:52:38,654 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:52:38,890 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:52:38,963 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:52:39,624 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:52:47,653 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:52:47,786 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:52:48,016 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:52:48,086 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:52:50,049 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:52:57,610 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:52:57,728 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:52:57,959 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:52:58,030 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:52:58,371 - logger_File -INFO - User Clicked On All Section
+2022-12-07 13:53:03,048 - logger_File -INFO - React App is equal to React App
+2022-12-07 13:53:03,164 - logger_File -INFO - user cliked on sign In option
+2022-12-07 13:53:03,382 - logger_File -INFO - User Enterd Email sameer.temori2100@gmail.comAnd Password Tek@44556
+2022-12-07 13:53:03,448 - logger_File -INFO - User Cliked on login Button
+2022-12-07 13:53:03,774 - logger_File -INFO - User Clicked On All Section

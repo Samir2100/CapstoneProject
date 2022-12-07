@@ -1,0 +1,24 @@
+package tek.capstone.framework.base;
+
+import io.cucumber.java.After;
+import io.cucumber.java.Before;
+import io.cucumber.java.Scenario;
+import tek.capstone.framwork.utilities.CommonUtility;
+
+public class BaseUITest extends CommonUtility{
+
+	@Before
+	public void setupTest() {
+		super.setupBrowser();
+	}
+	
+	@After
+	public void closeTest(Scenario scenario) {
+		if (scenario.isFailed()) {
+            byte[] screenShot = takeScreenShotAsBytes();
+            scenario.attach(screenShot, "iamge/png", scenario.getName() + " scenario Failed");
+        }
+		super.quiteBrowser();
+	}
+	
+}
