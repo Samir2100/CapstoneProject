@@ -1,4 +1,10 @@
+@TestSignIn
+
 Feature: Sign In Feature
+
+Background: 
+Given User is on retail website
+When User click on Sign in option
 
   @Test
   Scenario: Verify user can sign in into Retail Application
@@ -8,7 +14,6 @@ Feature: Sign In Feature
 
   @Test2
   Scenario: Verify user can create an account into Retail Website
-    When User click on Sign in option
     And User click on Create New Account button
     And User fill the signUp information with below data
       | name  | email                 | password  | confirmPassword |

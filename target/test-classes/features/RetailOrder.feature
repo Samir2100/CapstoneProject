@@ -1,3 +1,5 @@
+@TestOrders
+
 Feature: Retail Order Page
 
   Background: 
