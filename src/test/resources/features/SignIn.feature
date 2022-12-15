@@ -17,6 +17,6 @@ When User click on Sign in option
     And User click on Create New Account button
     And User fill the signUp information with below data
       | name  | email                 | password  | confirmPassword |
-      | Samir | tek.test123@gmail.com | Test@1234 | Test@1234       |
+      | Samir | tek.test12133@gmail.com | Test@1234 | Test@1234       |
     And User click on SignUp button
     Then User should be logged into account page
