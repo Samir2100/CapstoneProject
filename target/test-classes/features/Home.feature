@@ -16,7 +16,7 @@ Feature: Retail Home Page
   @NOTIMPLEMENTED
   Scenario Outline: Verify department sidebar options
     When User click on All section
-    And User on <department>
+    And User is on <department>
     Then below options are present in department
       | <optionOne> | <optionTwo> |
 
@@ -62,8 +62,7 @@ Feature: Retail Home Page
     And User click on Place Your Order
     Then a message should be displayed 'Order Placed Successfully'
 
-
-		@PlaceOrderWithMethodOnFile
+  @PlaceOrderWithMethodOnFile
   Scenario: Verify User can place an order with Shipping address and payment Method on file
     And User change the category to 'Electronics'
     And User search for an item 'Apex Legends'

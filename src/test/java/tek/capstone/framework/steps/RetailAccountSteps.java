@@ -169,6 +169,7 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@Then("payment details should be removed")
 	public void pamymentDetialsShouldBeRemoved() {
+		waitTillAbsence(factory.accountPage().removeSelectedCard);
 		logger.info("Card has been Removed Successfully");
 	}
 	

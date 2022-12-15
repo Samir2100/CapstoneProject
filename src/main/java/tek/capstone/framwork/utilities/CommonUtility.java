@@ -163,6 +163,7 @@ public class CommonUtility extends BaseSetup {
 			return false;
 		}
 	}
+	
 	public boolean isElementNotDisplayed(List<WebElement> removeSelectedCard) {
 		if (((WebElement) removeSelectedCard).isDisplayed()) {
 			return false;
@@ -235,4 +236,7 @@ public class CommonUtility extends BaseSetup {
 		js.executeScript("window.scrollTo(0,document.body.scrollHeight)");
 
 	}
+	public boolean waitTillAbsence(WebElement element) {
+        return this.getWait().until(ExpectedConditions.invisibilityOf(element));
+    }
 }
